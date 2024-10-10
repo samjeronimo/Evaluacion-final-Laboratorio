@@ -1,0 +1,11 @@
+.cuadro {
+    width: 50rem;
+    height: 75rem;
+    margin: 9rem auto;
+    border-radius: 8px;
+    border: 1px solid black;
+
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 33rem;
+}
